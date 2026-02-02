@@ -1,0 +1,4 @@
+pandas>=2.0
+yfinance>=0.2.0
+# Optional: for Stooq fallback when Yahoo fails
+pandas-datareader>=0.10.0
